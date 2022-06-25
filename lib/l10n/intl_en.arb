@@ -1,0 +1,11 @@
+{
+  "converterApp": "Converter App",
+  "start": "Start",
+  "complete": "Complete",
+  "startConverter": "Start Convert",
+  "convertingEnglish": "Converting English Files",
+  "completeEnglish": "Complete English",
+  "convertingItalian": "Converting Italian Files",
+  "completeItalian": "Complete Italian",
+  "path": "Path : "
+}
